@@ -28,12 +28,14 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "I am a third year Computer Engineering student with a concentration
                       in Networking and Cybersecurity and minors in Mathematics and Cybersecurity.
-                      I currently work part time as a Full Stack Software Development Intern at Counter,
-                      where I have gained experience in application development, APIs, Machine Learning,
-                      working with databases, and UI design. I have interests in embedded systems, firmware,
-                      application development, computer networking, and machine learning."
+                      I currently work part time as a Full Stack Software Development Intern at 
+                      Counter, where I have gained experience in application development, APIs, 
+                      Machine Learning, working with databases, and UI design. I have interests 
+                      in embedded systems, firmware, application development, computer networking,
+                      and machine learning."
   location         : "Blacksburg, Virginia"
-  employer         : "Virginia Polytechnic Institute and State University"
+  employer         : "Virginia Polytechnic Institute
+                      and State University"
   uri              : # URL
   email            : "patrickr157@vt.edu" 
 
