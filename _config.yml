@@ -26,13 +26,9 @@ author:
   avatar           : "Headshot.png"
   name             : "Patrick Rooney"
   pronouns         : # example: "she/her"  
-  bio              : "I am a third year Computer Engineering student with a concentration
-                      in Networking and Cybersecurity and minors in Mathematics and Cybersecurity.
-                      I currently work part time as a Full Stack Software Development Intern at 
-                      Counter, where I have gained experience in application development, APIs, 
-                      Machine Learning, working with databases, and UI design. I have interests 
-                      in embedded systems, firmware, application development, computer networking,
-                      and machine learning."
+  bio              : "I am a third year Computer Engineering student at Virginia Tech with a 
+                      concentration in Networking and Cybersecurity and minors in Mathematics
+                      and Cybersecurity."
   location         : "Blacksburg, Virginia"
   employer         : "Virginia Tech"
   uri              : # URL
