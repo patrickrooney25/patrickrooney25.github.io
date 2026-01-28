@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Engineering Networking and Cybersecurity, Virginia Tech, 2027 (expected)
+* Bs in Computer Engineering Networking and Cybersecurity, Virginia Tech, 2027 (expected)
 * Ms in Computer Engineering, Virginia Tech, 2028 (expected)
 
 Work/Leadership Experience
