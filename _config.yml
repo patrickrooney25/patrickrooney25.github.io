@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.png"
   name             : "Patrick Rooney"
   pronouns         : # example: "she/her"  
   bio              : "I am a third year Computer Engineering student with a concentration
