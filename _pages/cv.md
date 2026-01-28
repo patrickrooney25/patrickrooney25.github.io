@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -49,4 +49,8 @@ Service and leadership
   * Co-founder and leader of TOPZoom, a virtual alternative to TOPSoccer. Created curriculum, protocol, training, and elicited 
   parent feedback. Created a 50-page TOPZoom policy manual. Presented at TOPSoccer National Symposium about TOPZoom.
 
-
+<p>
+  <a href="/files/SP2026Resume.pdf" target="_blank">
+    Download my resume (PDF)
+  </a>
+</p>
