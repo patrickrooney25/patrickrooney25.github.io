@@ -11,54 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Engineering Networking and Cybersecurity, Virginia Tech, 2027 (expected)
+* Ms in Computer Engineering, Virginia Tech, 2028 (expected)
 
-Work experience
+Work/Leadership Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug 2025 - Present: Full Stack Software Development Intern, Counter
+  * Developing a machine learning model to predict SSDI claim outcomes using real-world client data. Built scoring criteria and 
+  mapped the criteria to Supabase data. Currently researching embedding and tabular models for implementation.
+  * Test and update existing application to ensure reliability and performance. 
+  * Integrating Supabase datasets into existing application to enable interactive analytics and enhance user insights.
+  * Implemented and tested APIs to streamline Counter's SSDI claims workflow, enhancing reliability and reducing manual 
+  processing time.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Apr 2020 - Aug 2021: Co-Founder / Camper Relations Team Lead, BuddEConnect
+  * Co-founded BuddEConnect, a virtual, nonprofit camp for children with special needs.
+  * Responsible for recruitment and management of relations of 50+ campers and families in 2020 and 60+ in 2021 from 19 different 
+  states. Facilitated a $15,000 single donor challenger grant.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Computer
+  *  Machine Learning, Application Development, API Development, Computer Networks, Embedded Systems, Microcontrollers, C++, C, Python, Assembly, JavaScript, Microsoft Office Suite
+* Technical
+  * Circuit Design, Filter Design, Cryptography, Digital Design, Troubleshooting, Debugging
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Dec 2023 - Present: Vice President, Virginia Tech Club Wrestling
+  * Entrusted in leading and managing a competitive collegiate wrestling club, overseeing team operations, member development of 
+  50+ student-athletes, organizing practices, working with Division 1 wrestling program, leading community service events, and all 
+  other organizational responsibilities with the President and Coach. 
+
+* Aug 2020 - Apr 2023: Head of Leadership Team, West Morris Soccer Club TOPSoccer
+  * Organized weekly soccer/basketball events for children with special needs and lead a team of 50+ volunteers and 70+ special 
+  needs players. 
+  * Co-founder and leader of TOPZoom, a virtual alternative to TOPSoccer. Created curriculum, protocol, training, and elicited 
+  parent feedback. Created a 50-page TOPZoom policy manual. Presented at TOPSoccer National Symposium about TOPZoom.
+
+
