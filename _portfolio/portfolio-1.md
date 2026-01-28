@@ -13,7 +13,7 @@ Key features of the system include encrypted password storage, password update l
 
 ---
 
-## System Image
+## Demo Image
 
 <img src="/images/PSL.png" alt="Personal Smart Locker System" style="max-width:100%; height:auto;">
 
