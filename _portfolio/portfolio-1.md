@@ -1,6 +1,6 @@
 ---
 title: "Personal Smart Locker"
-excerpt: "Short description of project <br/><img src='/images/500x300.png'>"
+excerpt: "Built a standalone smart-locker system using an ATmega328p, servo motor, keypad, and voltage-regulation circuitry. Features include: encrypted password storage, password change logic, low-power modes, motor-blockage detection, low-battery monitoring/alerts, a buzzer UI, and MOSFET based switching for battery efficiency. <br/><img src='/images/PSL.png'>"
 collection: portfolio
 ---
 
