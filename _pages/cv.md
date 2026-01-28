@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Bs in Computer Engineering Networking and Cybersecurity, Virginia Tech, 2027 (expected)
-* Ms in Computer Engineering, Virginia Tech, 2028 (expected)
+* B.S. in Computer Engineering Networking and Cybersecurity, Virginia Tech, 2027 (expected)
+* M.S. in Computer Engineering, Virginia Tech, 2028 (expected)
 
 Work/Leadership Experience
 ======
