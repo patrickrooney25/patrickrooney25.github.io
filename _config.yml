@@ -26,9 +26,11 @@ author:
   avatar           : "Headshot.png"
   name             : "Patrick Rooney"
   pronouns         : # example: "she/her"  
-  bio              : "I am a third year Computer Engineering student at Virginia Tech with a 
+  bio              : "I am a Senior year Computer Engineering student at Virginia Tech with a 
                       concentration in Networking and Cybersecurity and minors in Mathematics
-                      and Cybersecurity."
+                      and Cybersecurity. I am starting an Accelerated Master's program in Computer 
+                      Engineering at Virginia Tech in Fall 2026. I am interested in research 
+                      related to network security, embedded systems, and IoT devices."
   location         : "Blacksburg, Virginia"
   employer         : "Virginia Tech"
   uri              : # URL
